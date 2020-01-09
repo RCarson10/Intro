@@ -1,0 +1,20 @@
+//Ron Gaj Carson
+//This is my own work
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+	double pounds;
+	cout << "Please enter a postive number for pounds";
+	cin >> pounds;
+	 
+	double kilograms = pounds * 0.454;
+
+	cout << kilograms;
+
+
+	return 0;
+}
