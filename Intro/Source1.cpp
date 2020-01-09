@@ -13,7 +13,9 @@ int main()
 	 
 	double kilograms = pounds * 0.454;
 
-	cout << kilograms;
+	cout << kilograms << endl;
+
+	cout << "end of prog" << endl;
 
 
 	return 0;
